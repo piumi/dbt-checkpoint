@@ -1,2 +1,2 @@
 version: 1
-disable-tracking: true
+dbt-project-dir: dbt-projects/environment/development/data_systems
