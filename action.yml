@@ -1,5 +1,5 @@
 # action.yaml
-name: 'dbt-checkpoint'
+name: 'dbt-checkpoint-coolblue'
 description: 'List of pre-commit hooks to ensure the quality of your dbt projects.'
 branding:
   icon: 'anchor'
